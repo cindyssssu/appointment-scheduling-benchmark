@@ -1,4 +1,4 @@
-# Appointment-Agent Bench: Easy + Hard Suites
+# Appointment-Agent Bench
 
 A reproducible synthetic-clinic benchmark for evaluating command-line AI agents on appointment rescheduling.
 
